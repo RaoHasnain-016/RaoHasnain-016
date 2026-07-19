@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A1A2E&height=200&section=header&text=M%20Hasnain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Django%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<h1 align="center">Hi 👋, I'm M Hasnain</h1>
+<h3 align="center">Full Stack Developer (MERN & Django) | AI/ML Enthusiast | Python Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+platforms;Founder+%40+DevConnect;Creator+of+Agentic+QA;Full+Stack+%2B+AI%2FML+Developer;Open+to+Full-Time+%2F+Remote+Roles" alt="Typing SVG" />
@@ -13,8 +14,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RaoHasnain-016&label=Profile%20Views&color=2E9EF7&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/RaoHasnain-016?label=Followers&style=for-the-badge&color=2E9EF7"/>
-  <img src="https://img.shields.io/github/stars/RaoHasnain-016?affiliations=OWNER&style=for-the-badge&color=2E9EF7&label=Stars%20Earned"/>
 </p>
 
 <p align="center">
@@ -111,8 +110,8 @@ I'm a Full Stack Developer specializing in **web development and AI/ML integrati
 
 ---
 
+---
+
 <p align="center">
   💬 <b>Let's connect</b> — open to Full Stack Developer and AI/ML roles, available immediately.
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:2E9EF7&height=100&section=footer" width="100%"/>
