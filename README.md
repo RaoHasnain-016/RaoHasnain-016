@@ -99,10 +99,6 @@ I'm a Full Stack Developer specializing in **web development and AI/ML integrati
   <img src="https://github-profile-trophy.vercel.app/?username=RaoHasnain-016&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaoHasnain-016&theme=tokyonight&hide_border=true&layout=compact" alt="Coding time stats (enable WakaTime for this to populate)"/>
-</p>
-
 <!--
   🐍 Contribution Snake — animated snake that "eats" your contribution graph.
   This needs a one-time GitHub Action setup in your repo (Platane/snk).
